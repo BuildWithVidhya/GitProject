@@ -4,7 +4,7 @@ This project demonstrates basic Git and GitHub operations.
 
 
 
-This line is from MAIN branch.
+This line is from MAIN branch - conflict version.
 
 
 

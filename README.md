@@ -3,14 +3,11 @@
 This project demonstrates basic Git and GitHub operations.
 
 
-
-This line is from MAIN branch - conflict version.
-
-
+This line has been resolved after the merge conflict.
 
 \## Feature Branch
 
 
 
-This section was added using the feature branch.
+This line is from FEATURE branch.
 
